@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @desi-p
+- 👋 Hi, I’m @desi-p; a social worker transitioning into tech. 
 - 👀 I’m interested in mental health and it's intersection with technology.
 - 🌱 Currently learning html, css, javascript and python. I'm enrolled the Backend, SQL and DevOps with Python Bootcamp at Nucamp Coding Bootcamp (Pend Grad: Jan 2022).
 - 💞️ I’m open to collaborate on community projects that will allow me to build skills in fullstack development or data engineering.
