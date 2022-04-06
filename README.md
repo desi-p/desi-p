@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @desi-p; a social worker transitioning into tech. 
-- 👀 I’m interested in mental health and it's intersection with technology.
-- 🌱 Currently learning html, css, javascript and python. I've completed the Backend, SQL and DevOps with Python Bootcamp at Nucamp Coding Bootcamp (Jan 2022) and participating in #100Devs.
+- 👋 Hi, I’m @desi-p; AWS Certified Cloud Practitioner 
+- 👀 I’m interested in mental health (previous social worker) and it's intersection with technology.
+- 🌱 I use: HTML, CSS, JavaScript and Python. I've completed the Backend, SQL and DevOps with Python Bootcamp at Nucamp Coding Bootcamp (Jan 2022) and participating in #100Devs.
 - 💞️ I’m open to collaborate on community projects that will allow me to build skills in fullstack development.
-- 👩‍💻 Looking for positions in developer relations, project management, or fullstack development. 
+- 👩‍💻 Open to the following positions: developer relations, project management, or fullstack development. 
 - 📫 How to reach me - email me at dpricelcsw@gmail.com.
 
 You can also check me out at:
